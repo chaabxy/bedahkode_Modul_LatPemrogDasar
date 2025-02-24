@@ -37,8 +37,8 @@ nav a:hover {
   font-weight: bold;
 }
 
-.profile header{
-  text-align:center;
+.profile header {
+  text-align: center;
 }
 
 .featured-image {
@@ -48,6 +48,13 @@ nav a:hover {
   object-position: center;
 }
 
-.profile img{
+.profile img {
   width: 200px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
 }
